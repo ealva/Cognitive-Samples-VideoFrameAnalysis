@@ -3,10 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="FaceAPIKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">270ae77b4d3e497d9fd49457b0425eec</Value>
     </Setting>
     <Setting Name="VisionAPIKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">867955bf694b415eb263c7ccebd2abe3</Value>
     </Setting>
     <Setting Name="SettingsPanelVisibility" Type="System.Windows.Visibility" Scope="User">
       <Value Profile="(Default)">Visible</Value>
